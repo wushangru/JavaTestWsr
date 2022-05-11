@@ -7,5 +7,6 @@ package com.wsr.test;
 public class Test02 {
     public static void main(String[] args) {
         System.out.printf("", "Hello git!");
+        System.out.printf("", "Hello git2!");
     }
 }
