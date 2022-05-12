@@ -14,5 +14,6 @@ public class Test02 {
         System.out.printf("", "hot-fix test!");
         System.out.printf("", "push test!");
         System.out.printf("", "pull test!");
+        System.out.printf("", "gitee test!");
     }
 }
